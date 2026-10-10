@@ -1,0 +1,27 @@
+# Compiled Java output
+bin/
+out/
+*.class
+
+# Eclipse workspace metadata
+.metadata/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+
+# Archives
+*.zip
+*.rar
